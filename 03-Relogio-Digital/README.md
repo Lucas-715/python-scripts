@@ -1,6 +1,6 @@
 # Gerador de CPF
 
-Este é um script simples em Python de um relógio com interface gráfica usando Tkinter.
+Este é um script simples em Python que apresenta a data e o relógio com interface gráfica usando Tkinter, com a funcionalidade de mudar de cor.
 
 ## Como usar
 
