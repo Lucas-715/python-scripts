@@ -1,4 +1,3 @@
-# python-scripts
 # Meus Scripts e Utilitários em Python 🐍
 
 Bem-vindo(a) ao meu repositório de utilitários e pequenos projetos em Python! Aqui eu guardo alguns scripts que desenvolvi para aprender e praticar. Sinta-se à vontade para explorar e usar o código!
@@ -31,4 +30,4 @@ Aqui está uma lista dos projetos disponíveis atualmente. Cada um está em sua 
 
 ## Contato
 
-Me encontre no [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui/)!
+Me encontre no **[LinkedIn](https://www.linkedin.com/in/lucas-almeida-5433a0330/)**!
