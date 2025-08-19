@@ -1,10 +1,19 @@
-# Gerador de CPF
+# 02 - Calendário Interativo
 
-Este é um script simples em Python que imprime o calendario de um mês e ano que o usuario pedir no terminal.
+Este é um script simples que utiliza o módulo `calendar` do Python para exibir o calendário de um mês e ano específicos, fornecidos pelo usuário de forma interativa.
 
-## Como usar
+## ✨ Funcionalidades
 
-Execute o script diretamente no terminal:
+-   **Entrada de Dados Interativa:** O programa solicita que o usuário digite o ano e o mês desejados.
+-   **Validação de Mês:** Verifica se o mês inserido está dentro do intervalo válido (1 a 12).
+-   **Tratamento de Erros:** Utiliza um bloco `try-except` para garantir que o programa não quebre se o usuário digitar um texto em vez de números.
+-   **Exibição Formatada:** Mostra o calendário de forma limpa e organizada no terminal.
 
-```bash
-python Calendario.py
+## 🚀 Como Executar
+
+1.  Navegue até a pasta do projeto.
+2.  Execute o script no terminal:
+    ```bash
+    python Calendario.py
+    ```
+3.  Siga as instruções para digitar o ano e o mês.
